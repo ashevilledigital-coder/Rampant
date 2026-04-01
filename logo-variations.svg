@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <!-- Stallion Mark Variation -->
+  <g id="stallion-mark">
+    <circle cx="100" cy="100" r="80" fill="black" />
+    <text x="100" y="100" font-family="Arial" font-size="24" fill="white" text-anchor="middle" dominant-baseline="central">Stallion</text>
+  </g>
+
+  <!-- Monogram RS Variation -->
+  <g id="monogram-rs" transform="translate(200, 0)">
+    <text x="0" y="50" font-family="Georgia" font-size="48" fill="black">RS</text>
+  </g>
+
+  <!-- Heraldic Crest Variation -->
+  <g id="heraldic-crest" transform="translate(0, 200)">
+    <rect x="150" y="10" width="200" height="100" style="fill:lightblue;stroke:black;stroke-width:2" />
+    <text x="250" y="65" font-family="Times New Roman" font-size="36" fill="black" text-anchor="middle">Crest</text>
+  </g>
+
+  <!-- Full Wordmark Logo Variation -->
+  <g id="full-wordmark-logo" transform="translate(0, 300)">
+    <text x="250" y="50" font-family="Verdana" font-size="24" fill="green" text-anchor="middle">Full Wordmark Logo</text>
+  </g>
+</svg>
